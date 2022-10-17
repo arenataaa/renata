@@ -1,18 +1,15 @@
 
 h1{
-    color;bisque;
+    text-align: center
+    background-color
+    color:#ff2323
     font-family: ;
-    background: ;
+    background: black;
+}
+p {
+    color:blanchedalmond;
+    text-align: center;
     }
-
-    p{
-        color:black ;
-        font-family: ;
-        font-size: ;
-        background: ;
-        }
-        
-
-        body{
-            background-color; browm;
-            }
+    #anjo{
+        width: 50%;
+    }
